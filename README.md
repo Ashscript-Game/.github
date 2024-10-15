@@ -1,1 +1,1 @@
-# .github
+# Ashscript Game official repositories
